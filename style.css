@@ -1,2 +1,7 @@
 #box {width: 100px; height: 100px; position: absolute;  left: 200px; top: 200px;}
-h1 {text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+h1 {text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: blueviolet;}
+body {
+    background-image: url("http://www.bestcoloringpagesforkids.com/wp-content/uploads/2013/12/Spider-Web-Coloring-Page.jpg");     
+    background-repeat: no-repeat;
+   
+}
