@@ -1,7 +1,10 @@
 #box {width: 100px; height: 100px; position: absolute;  left: 200px; top: 200px;}
-h1 {text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: blueviolet;}
+h1 {text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: yellow;margin-bottom: 500px;}
 body {
-    background-image: url("http://www.bestcoloringpagesforkids.com/wp-content/uploads/2013/12/Spider-Web-Coloring-Page.jpg");     
+    background-image: url("https://www.goodfreephotos.com/albums/vector-images/spider-web-vector-art.png");     
     background-repeat: no-repeat;
-   
+    background-size: 90%;
+    background-position: center;
+    margin-top: 175px; 
+   background-color: gray;
 }
